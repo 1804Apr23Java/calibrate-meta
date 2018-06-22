@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "calibrate-config-service": "https://github.com/1804Apr23Java/calibrate-config-service.git",
+    "calibrate-discovery-service": "https://github.com/1804Apr23Java/calibrate-discovery-service.git",
+    "calibrate-gateway-service": "https://github.com/1804Apr23Java/calibrate-gateway-service.git",
+    "calibrate-account-service": "https://github.com/1804Apr23Java/calibrate-account-service.git",
+    "calibrate-library-service": "https://github.com/1804Apr23Java/calibrate-library-service.git",
+    "calibrate-quiz-service": "https://github.com/1804Apr23Java/calibrate-quiz-service.git"
+  }
+}
