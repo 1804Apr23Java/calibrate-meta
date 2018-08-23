@@ -6,7 +6,7 @@
 
 ### Description
 
-
+Calibrate is a fully featured quiz web application designed for Revature associates to practice for panel and client interviews. Associates can generate and take quizzes composed of questions from vetted public question libraries, as well as their own personalized question libraries. The objective is provide an informal, associate-driven study tool which trainers may moderate as needed. 
 
 ### Objectives
 
@@ -18,7 +18,7 @@
 ## Current State
 
 Associates study for assessements and panels using a variety of tools, including 
-Q&A spreadsheets provided by the trainer, Quizlet question sets, and review of weekly quizzes. 
+Q&A spreadsheets provided by the trainer, Quizlet question sets, and review of weekly Revature Pro quizzes. 
 There is no official infrastructure for sharing review material which does not require direct 
 management by the training or content team. Re-assigning weekly quizzes for associates
 to review creates confusion with the scheduled evaluations' results and requires configuration
@@ -34,7 +34,12 @@ on public leaderboards.
 
 ### Features 
 
-* 
+* Associates can generate and take quizzes composed of questions from admin-verified public question libraries
+* Associates can develop their own personalized question libraries and submit them to administrators 
+* Administrators (trainers) may approvice submitted libraries and make them public
+* Users can generate quizzes from several libraries to allow maximum flexibility in choosing topics they need to study, as well as choose special options to generate quizzes from the hardest questions, or most missed questions
+* Associates can review all of their personal quiz attempts to guide their study and anonymously gauge how well they scored on a particular quiz versus other users. 
+* Administrators can add or delete user accounts, approve or deny libraries, and modify libraries and questions.
 
 ## Stakeholders/Users
 
